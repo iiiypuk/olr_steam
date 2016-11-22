@@ -7,8 +7,8 @@
 [два](https://yadi.sk/d/0XEhmRoSi8Es8).  
 Устанавливаем по пути `\Steam\steamapps\common\STALKER Shadow of Chernobyl` для appID `4500`, заранее удалив директорию, либо файлы в ней.  
 Если у Вас в Steam только русская версия S.T.A.L.K.E.R. SoC (appID `4830`), то по пути:  
-`\Steam\steamapps\common\STALKER Shadow of Chernobyl RU`
+`\Steam\steamapps\common\STALKER Shadow of Chernobyl RU`  
 2. Скачиваем "Launcher".  
-[Тыц!](https://github.com/iiiypuk/olr_stean/releases/tag/1).
-3. Кидаем директорию `bin` рядом с `_bin_olr_`.
+[Тыц!](https://github.com/iiiypuk/olr_stean/releases/tag/1).  
+3. Кидаем директорию `bin` рядом с `_bin_olr_`.  
 4. Всё! Тыкаем два раза по игре в клиенте Steam и играем :blush:.

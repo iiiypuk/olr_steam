@@ -4,7 +4,7 @@
 **Установка:**  
 1. Скачиваем и устанавливаем Oblivion Lost Remake.  
 Архив актуальной версии [адин](https://cloud.mail.ru/public/CfMy/5WaFau6yR),
-[два](https://cloud.mail.ru/public/6hi6/jCz84XvLK).  
+[два](https://cloud.mail.ru/public/6hi6/jCz84XvLK) + [fix](https://cloud.mail.ru/public/Dwzy/VJnkeyLme).  
 Устанавливаем по пути `\Steam\steamapps\common\STALKER Shadow of Chernobyl` для appID `4500`, заранее удалив директорию, либо файлы в ней.  
 Если у Вас в Steam только русская версия S.T.A.L.K.E.R. SoC (appID `4830`), то по пути:  
 `\Steam\steamapps\common\STALKER Shadow of Chernobyl RU`  

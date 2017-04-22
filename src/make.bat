@@ -1,1 +1,1 @@
-cl.exe XR_3DA.c
+cl.exe /nologo XR_3DA.c

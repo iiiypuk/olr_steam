@@ -15,5 +15,6 @@ Oblivion Lost Remake 2.5
 2. Распаковываем патч OLR25_update_17to18.7z
 3. Скачиваем и распаковываем лаунчер для Steam версии.
    https://github.com/iiiypuk/olr_steam/releases/download/1/bin.zip
+4. ОБЯЗАТЕЛЬНО один раз запустить конфигуратор и пройти все пункты до конца.
 
 Torrent обновлен: 22 апреля 2017 года

@@ -2,7 +2,7 @@
 *(Проверялось на [интернациональной версии](http://steamcommunity.com/app/4500), appID: 4500)*
 
 **Установка:**  
-- Скачиваем Oblivion Lost Remake 2.5 + FIXX 17.  
+- Скачиваем Oblivion Lost Remake 2.5:  
 Архив актуальной версии:  
 [Ссылка №1](https://cloud.mail.ru/public/CfMy/5WaFau6yR)  
 [Ссылка 2](https://cloud.mail.ru/public/6hi6/jCz84XvLK)  
@@ -14,6 +14,7 @@
 `\Steam\steamapps\common\STALKER Shadow of Chernobyl RU`  
 - Скачиваем [Launcher](https://github.com/iiiypuk/olr_steam/releases/tag/1).  
 - Кидаем директорию `bin` рядом с `_bin_olr_`.  
+- __Обязательно__ один раз запустить конфигуратор и пройти все пункты до конца.  
 - Всё! Тыкаем два раза по игре в клиенте Steam и играем :blush:.  
 
 Руководство в [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=805250798).  

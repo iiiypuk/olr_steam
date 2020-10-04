@@ -17,4 +17,5 @@
 - Всё! Тыкаем два раза по игре в клиенте Steam и играем :blush:.
 
 Руководство в [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=805250798).
+
 ![Total downloads](https://img.shields.io/github/downloads/iiiypuk/olr_steam/total.svg?style=for-the-badge)
